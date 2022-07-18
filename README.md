@@ -1,11 +1,21 @@
-# Todas y Todos Podemos Programar (TTP)
+# Todas y Todos Podemos Programar (**TPP**)
 
 Curso Introductorio de Python para alumnos de Tercero y cuarto Medio.
 
 ## Programa del curso
 
 Programa que detalla el contenido de cinco clases teoricas y cinco talleres prácticos.
+El programa del taller se encuentra displonible [aquí](https://github.com/adigenova/tpp/blob/main/programa/Programa_Taller_TPP.pdf)
 
-## Bitacora de clases
+## Bitácora de clases
 
-Archivo guia con el contenido y codigo publicados en el repositorio github del taller.
+Archivo guia con el contenido y código publicados en el repositorio github del taller.
+
+### Clase 1
+
+La presentacion vista en la primera clase se encuentra disponible [aquí](https://github.com/adigenova/tpp/blob/main/clases/tpp_day1.pdf). 
+
+#### Codigo clase 1
+
+El codigo de la parte practica se encuentra disponible en el siguiente [archivo](https://github.com/adigenova/tpp/blob/main/code/TPP_C01.ipynb).
+
