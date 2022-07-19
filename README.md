@@ -13,9 +13,18 @@ Archivo guia con el contenido y código publicados en el repositorio github del 
 
 ### Clase 1
 
-La presentacion vista en la primera clase se encuentra disponible [aquí](https://github.com/adigenova/tpp/blob/main/clases/tpp_day1.pdf). 
+La presentacion vista en la primera clase se encuentra disponible [aquí](https://github.com/adigenova/tpp/blob/main/clases//dia1/tpp_day1.pdf). 
 
 #### Codigo clase 1
 
 El codigo de la parte practica se encuentra disponible en el siguiente [archivo](https://github.com/adigenova/tpp/blob/main/code/TPP_C01.ipynb).
+
+
+### Clase 2
+
+La presentacion vista en la segunda clase se encuentra disponible [aquí](https://github.com/adigenova/tpp/blob/main/clases//dia2/tpp_day2.pdf). 
+
+#### Codigo clase 1
+
+El codigo de la parte practica se encuentra disponible en el siguiente [archivo](https://github.com/adigenova/tpp/blob/main/code/TPP_C02.ipynb).
 
