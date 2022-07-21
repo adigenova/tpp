@@ -36,4 +36,12 @@ La presentacion vista en la tercera clase se encuentra disponible [aquí](https:
 
 El codigo de la parte practica se encuentra disponible en el siguiente [archivo](https://github.com/adigenova/tpp/blob/main/code/TPP_C03.ipynb).
 
+### Clase 4
+
+La presentacion vista en la cuarta clase se encuentra disponible [aquí](https://github.com/adigenova/tpp/blob/main/clases//dia4/tpp_day4.pdf). 
+
+#### Codigo clase 4
+
+El codigo de la parte practica se encuentra disponible en el siguiente [archivo](https://github.com/adigenova/tpp/blob/main/code/TPP_C04.ipynb).
+
 
