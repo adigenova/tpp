@@ -45,3 +45,11 @@ La presentacion vista en la cuarta clase se encuentra disponible [aquí](https:/
 El codigo de la parte practica se encuentra disponible en el siguiente [archivo](https://github.com/adigenova/tpp/blob/main/code/TPP_C04.ipynb).
 
 
+### Clase 5
+
+
+#### Código clase 5
+
+El código de la parte práctica se encuentra disponible en el siguiente [archivo](https://github.com/adigenova/tpp/blob/main/code/TPP_C05.ipynb).
+
+
