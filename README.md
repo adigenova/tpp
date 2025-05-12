@@ -1,6 +1,6 @@
 # Todas y Todos Podemos Programar (**TPP**)
 
-Curso Introductorio de Python para alumnos de Tercero y cuarto Medio.
+Curso Introductorio de Python para alumnos de enseñanza básica y media.
 
 ## Programa del curso
 
